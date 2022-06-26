@@ -28,7 +28,7 @@ Gaussian smoothing is also used as a pre-processing stage in computer vision alg
 
 - [Pankaj Kamble](https://github.com/pankajkamble62)
 
-- [Isha Pathak]()
+- [Isha Pathak](https://github.com/isha1221)
 
 - [Anjali Patil]()
 
